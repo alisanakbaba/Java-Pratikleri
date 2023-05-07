@@ -7,7 +7,7 @@ public class Main {
         // degiskenleri tanimladik
         int kilo;
         double boy,result;
-        // degiskenleri tanimladik
+        // kullacidan girdileri aldik
         System.out.print("Lutfen kilonuzu giriniz: ");
         kilo = input.nextInt();
         System.out.print("Lutfen boyunuzu (metre cinsinden) giriniz: ");
