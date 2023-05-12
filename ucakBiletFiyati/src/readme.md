@@ -1,0 +1,2 @@
+Uçak Bileti Fşyatını Hesaplama
+Kullanıcı gideceği konumun uzaklığını , yaş bilgilerini giriyor ve tek yön mü yoksa gidiş-dönüş bileti mi almak istediğini seçiyor buna göre gereken indirimler yapılıyor ve bilet fiyatı hesaplanıyor
