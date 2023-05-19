@@ -1,0 +1,3 @@
+PROJENİN AMACI : Girilen basamak sayısına göre ters üçgen oluşturma   -----------------          DEĞİŞKENLER :   numberOfDigits ---->  kullanıcının gireceği basamak sayısı        x -----> yıldızları oluşturmak için ilk değeri basamak sayısına eşit olan ve döngü ilerledikçe değeri 1 azalan değişken  --------  -----------
+NASIL ÇALIŞIR :  -- basamak sayısı kadar döngüye sokarız      -- basamak döngüsünün içinde satır sayısının bir eksiği kadar boşluk olacak şekilde döngüye sokarız
+-- yıldız sayısıda x değişkenin değerinin 2 katının 1 eksiği olacak şekilde döngüye sokar her döngü bitince x değerini azaltırız        
