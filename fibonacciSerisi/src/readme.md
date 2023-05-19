@@ -1,0 +1,4 @@
+PROJENİN AMACI : Klavyeden girilen sayı kadar fibonacci serisini bulan program ------------------ DEĞİŞKENLER : numberOfElements=ilk kaç terim olacağını belirtir
+numberx = kullanacağımız değişken ------ numbery = kullanacağımız değişken    ------  numberz = kullanacağımız değişken ---------
+NASIL ÇALIŞIR : İlk başta ilk iki terimini bir sayıya eşitleriz sonra toplamlarını başka bir sayıya eşitleriz ve üçünü yazdırırız sonra -3 olacak şekilde döngü kurarız 
+ilk değişkene ikinci değişkenin değerini ikinci değişkenin değerini üçüncü değişkenin değerini üçüncü değişkene de bunların toplamını atarız ve yazdırırız bu şekilde döngü ile yazdırırız
