@@ -1,2 +1,2 @@
 # Java Pratikleri
- Java da çözdüğüm pratikler
+Java 101 dersinde yazdığım kodlar
